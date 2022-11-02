@@ -54,7 +54,7 @@
                     <nav class="flex gap-2">
                         <a class="font-bold uppercase text-gray-600 text-sm" href="{{route('login')}}">Login</a>
                         <!--Aquí le paso la ruta de forma dinámica-->
-                        <a href="{{route('register')}}" class="font-bold uppercase text-gray-600 text-sm">Iniciar Sesión</a>
+                        <a href="{{route('register')}}" class="font-bold uppercase text-gray-600 text-sm">Registrarse</a>
                     </nav>    
                 @endguest
 
